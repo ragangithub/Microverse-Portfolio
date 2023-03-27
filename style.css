@@ -187,9 +187,9 @@ section.works {
   color: #344563;
 }
 
-.tonic ul {
-  display: flex;
-  gap: 10px;
+.float {
+  float: left;
+  margin-right: 10px;
 }
 
 .tonic ul li {
